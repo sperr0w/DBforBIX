@@ -23,7 +23,7 @@ import com.smartmarmot.dbforbix.config.item.IConfigurationItem;
 abstract class AbstractConfigurationElement implements IConfigurationElement {
 
 	private String id;
-	private String test1;
+	private String test12;
 	private String prefix;
 	private String query;
 	private int time=60;
